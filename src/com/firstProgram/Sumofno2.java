@@ -1,13 +1,17 @@
 package com.firstProgram;
 
-public class ForLoop {
+public class Sumofno2 {
 
 	public static void main(String[] args) {
+
 		
-	       System.out.println("hello");	
+		
+		
+		
+		
+		
+		
 		
 	}
 
-	}
-
-
+}
